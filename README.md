@@ -3,6 +3,10 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+This is a project from Udacity's online Self-Driving Car Engineer Course. This is the first simple project that I finished. The target is to find the lane lines in a video shot by the camera mounted on the car. It is not a very difficult one, but very good entry level project for new learners. I found it very interest and proud to be able to finish it though I do know there are many shortcomes of course since this is a very first one. 
+
+Following are the original content of this README provided by Udacity:
+
 Overview
 ---
 
